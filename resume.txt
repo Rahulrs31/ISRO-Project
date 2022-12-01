@@ -1,6 +1,6 @@
 Name: Rahul 
 Age: 20
 Address: Bangalore 
-QR: B>E 
+QR: B.E 
 Salary: 5LPA 
 
