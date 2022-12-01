@@ -1,6 +1,6 @@
-Name:
-Age:
-Address:
-QR:
-Salary:
+Name: Rahul 
+Age: 20
+Address: Bangalore 
+QR: B>E 
+Salary: 5LPA 
 
